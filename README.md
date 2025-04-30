@@ -1,1 +1,1 @@
-# technicalEval
+# school-mgmt
